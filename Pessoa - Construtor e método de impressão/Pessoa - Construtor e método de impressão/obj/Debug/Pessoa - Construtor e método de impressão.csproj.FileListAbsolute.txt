@@ -1,0 +1,8 @@
+C:\Users\laraf\OneDrive\Documentos\exercicios-classes-c#\Pessoa - Construtor e método de impressão\Pessoa - Construtor e método de impressão\bin\Debug\Pessoa - Construtor e método de impressão.exe.config
+C:\Users\laraf\OneDrive\Documentos\exercicios-classes-c#\Pessoa - Construtor e método de impressão\Pessoa - Construtor e método de impressão\bin\Debug\Pessoa - Construtor e método de impressão.exe
+C:\Users\laraf\OneDrive\Documentos\exercicios-classes-c#\Pessoa - Construtor e método de impressão\Pessoa - Construtor e método de impressão\bin\Debug\Pessoa - Construtor e método de impressão.pdb
+C:\Users\laraf\OneDrive\Documentos\exercicios-classes-c#\Pessoa - Construtor e método de impressão\Pessoa - Construtor e método de impressão\obj\Debug\Pessoa - Construtor e método de impressão.csproj.AssemblyReference.cache
+C:\Users\laraf\OneDrive\Documentos\exercicios-classes-c#\Pessoa - Construtor e método de impressão\Pessoa - Construtor e método de impressão\obj\Debug\Pessoa - Construtor e método de impressão.csproj.SuggestedBindingRedirects.cache
+C:\Users\laraf\OneDrive\Documentos\exercicios-classes-c#\Pessoa - Construtor e método de impressão\Pessoa - Construtor e método de impressão\obj\Debug\Pessoa - Construtor e método de impressão.csproj.CoreCompileInputs.cache
+C:\Users\laraf\OneDrive\Documentos\exercicios-classes-c#\Pessoa - Construtor e método de impressão\Pessoa - Construtor e método de impressão\obj\Debug\Pessoa - Construtor e método de impressão.exe
+C:\Users\laraf\OneDrive\Documentos\exercicios-classes-c#\Pessoa - Construtor e método de impressão\Pessoa - Construtor e método de impressão\obj\Debug\Pessoa - Construtor e método de impressão.pdb

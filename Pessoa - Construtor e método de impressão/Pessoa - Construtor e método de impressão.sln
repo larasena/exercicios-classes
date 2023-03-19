@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pessoa - Construtor e método de impressão", "Pessoa - Construtor e método de impressão\Pessoa - Construtor e método de impressão.csproj", "{4908FF35-ECF8-4753-A265-6B3587E06790}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4908FF35-ECF8-4753-A265-6B3587E06790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4908FF35-ECF8-4753-A265-6B3587E06790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4908FF35-ECF8-4753-A265-6B3587E06790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4908FF35-ECF8-4753-A265-6B3587E06790}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D2E8CA0-C336-4FEA-80DC-E0F69A930696}
+	EndGlobalSection
+EndGlobal
