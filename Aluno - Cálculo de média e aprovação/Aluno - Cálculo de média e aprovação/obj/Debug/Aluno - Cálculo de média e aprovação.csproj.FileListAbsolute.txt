@@ -1,0 +1,8 @@
+C:\Users\laraf\OneDrive\Documentos\exercicios-classes\Aluno - Cálculo de média e aprovação\Aluno - Cálculo de média e aprovação\bin\Debug\Aluno - Cálculo de média e aprovação.exe.config
+C:\Users\laraf\OneDrive\Documentos\exercicios-classes\Aluno - Cálculo de média e aprovação\Aluno - Cálculo de média e aprovação\bin\Debug\Aluno - Cálculo de média e aprovação.exe
+C:\Users\laraf\OneDrive\Documentos\exercicios-classes\Aluno - Cálculo de média e aprovação\Aluno - Cálculo de média e aprovação\bin\Debug\Aluno - Cálculo de média e aprovação.pdb
+C:\Users\laraf\OneDrive\Documentos\exercicios-classes\Aluno - Cálculo de média e aprovação\Aluno - Cálculo de média e aprovação\obj\Debug\Aluno - Cálculo de média e aprovação.csproj.AssemblyReference.cache
+C:\Users\laraf\OneDrive\Documentos\exercicios-classes\Aluno - Cálculo de média e aprovação\Aluno - Cálculo de média e aprovação\obj\Debug\Aluno - Cálculo de média e aprovação.csproj.SuggestedBindingRedirects.cache
+C:\Users\laraf\OneDrive\Documentos\exercicios-classes\Aluno - Cálculo de média e aprovação\Aluno - Cálculo de média e aprovação\obj\Debug\Aluno - Cálculo de média e aprovação.csproj.CoreCompileInputs.cache
+C:\Users\laraf\OneDrive\Documentos\exercicios-classes\Aluno - Cálculo de média e aprovação\Aluno - Cálculo de média e aprovação\obj\Debug\Aluno - Cálculo de média e aprovação.exe
+C:\Users\laraf\OneDrive\Documentos\exercicios-classes\Aluno - Cálculo de média e aprovação\Aluno - Cálculo de média e aprovação\obj\Debug\Aluno - Cálculo de média e aprovação.pdb
