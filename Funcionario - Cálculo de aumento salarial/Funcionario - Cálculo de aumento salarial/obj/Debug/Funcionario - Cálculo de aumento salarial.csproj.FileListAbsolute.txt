@@ -1,0 +1,8 @@
+C:\Users\laraf\OneDrive\Documentos\exercicios-classes\Funcionario - Cálculo de aumento salarial\Funcionario - Cálculo de aumento salarial\bin\Debug\Funcionario - Cálculo de aumento salarial.exe.config
+C:\Users\laraf\OneDrive\Documentos\exercicios-classes\Funcionario - Cálculo de aumento salarial\Funcionario - Cálculo de aumento salarial\bin\Debug\Funcionario - Cálculo de aumento salarial.exe
+C:\Users\laraf\OneDrive\Documentos\exercicios-classes\Funcionario - Cálculo de aumento salarial\Funcionario - Cálculo de aumento salarial\bin\Debug\Funcionario - Cálculo de aumento salarial.pdb
+C:\Users\laraf\OneDrive\Documentos\exercicios-classes\Funcionario - Cálculo de aumento salarial\Funcionario - Cálculo de aumento salarial\obj\Debug\Funcionario - Cálculo de aumento salarial.csproj.AssemblyReference.cache
+C:\Users\laraf\OneDrive\Documentos\exercicios-classes\Funcionario - Cálculo de aumento salarial\Funcionario - Cálculo de aumento salarial\obj\Debug\Funcionario - Cálculo de aumento salarial.csproj.SuggestedBindingRedirects.cache
+C:\Users\laraf\OneDrive\Documentos\exercicios-classes\Funcionario - Cálculo de aumento salarial\Funcionario - Cálculo de aumento salarial\obj\Debug\Funcionario - Cálculo de aumento salarial.csproj.CoreCompileInputs.cache
+C:\Users\laraf\OneDrive\Documentos\exercicios-classes\Funcionario - Cálculo de aumento salarial\Funcionario - Cálculo de aumento salarial\obj\Debug\Funcionario - Cálculo de aumento salarial.exe
+C:\Users\laraf\OneDrive\Documentos\exercicios-classes\Funcionario - Cálculo de aumento salarial\Funcionario - Cálculo de aumento salarial\obj\Debug\Funcionario - Cálculo de aumento salarial.pdb
